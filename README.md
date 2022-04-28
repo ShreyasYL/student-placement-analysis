@@ -5,7 +5,7 @@
 # Visualization 1
 
 - Does gender bias exist in placements?
-- 
+
 ![Viz 1](https://github.com/kautilyak/student-placement-analysis/blob/main/viz/viz1.png)
 
 # Visualization 2 
