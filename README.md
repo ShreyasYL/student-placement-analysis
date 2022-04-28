@@ -38,3 +38,8 @@
 - According to the model, the most important factors affecting the salary are shown in the following plot
 
 ![feature importance](https://github.com/kautilyak/student-placement-analysis/blob/main/viz/fi.png)
+
+# Instructions for running the project
+
+- Please Uncomment statement clf1 = setup(data = mlData, target = 'salary') in the project file, before running the application for the first time. 
+After doing this, and ensuring that the app has run, the code can be commented again.
