@@ -38,3 +38,8 @@
 - According to the model, the most important factors affecting the salary are shown in the following plot
 
 ![feature importance](https://github.com/kautilyak/student-placement-analysis/blob/main/viz/fi.png)
+
+# Steps to run the code
+
+- Please install pycaret version 2.3.6, altair, pandas, numpy version 1.19.2 and numba version 0.53.0
+- To run the project, navigate to the project folder using command line and use the following command: streamlit run Project-Module.py
