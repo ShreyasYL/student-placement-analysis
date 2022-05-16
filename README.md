@@ -41,5 +41,4 @@
 
 # Instructions for running the project
 
-- Please Uncomment statement clf1 = setup(data = mlData, target = 'salary') in the project file, before running the application for the first time. 
-After doing this, and ensuring that the app has run, the code can be commented again.
+- Please install pyCaret version 2.3.6 to run the project.
